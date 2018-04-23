@@ -1,3 +1,3 @@
 # UsefulScripts
 
-A Collection of usefulscripts from a range of Languages
+A Collection of useful scripts from a range of Languages
